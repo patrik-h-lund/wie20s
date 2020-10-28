@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+}
+nav{
+    background-color:grey;
+    height: 40px;}
+    
+ul{
+       text-align: center;
+}
+    
+li{
+    display: inline;
+    margin-right: 30px;
+}
+        
+span{
+    background: red;
+    height: 300px;
+    width: 300px;
+    
+}
+a{
+    text-decoration: none;
+}
+a:link{
+    color: plum;
+    
+}
+a:hover{
+    color:red
+}
+a:visited{
+    color:green
+}
+a:active{
+    color:yellow
+}
+
+main{
+    
+    border: 2px solid black;
+}
+
+display: inline-block;
